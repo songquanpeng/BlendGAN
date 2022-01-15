@@ -1,0 +1,1 @@
+Copied from: https://github.com/crcrpar/pytorch.sngan_projection/tree/master/models/discriminators
